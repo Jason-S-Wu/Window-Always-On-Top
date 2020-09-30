@@ -1,5 +1,5 @@
 # Window-Always-On-Top
-Forces window on top
+Simple AutoHotKey script that forces a window on top
 
 # Hotkeys
 `Space + Ctrl` to pin window to the top
